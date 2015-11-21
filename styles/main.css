@@ -1,0 +1,12 @@
+.editing-item a {
+  font-weight: bold;
+  color: red;
+}
+
+.edited a {
+  font-size: 20px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
